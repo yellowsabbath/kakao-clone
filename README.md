@@ -1,2 +1,3 @@
 # kakao-clone
- First try
+
+KaKao Desktop App Clone
